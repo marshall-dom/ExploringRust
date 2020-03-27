@@ -8,6 +8,11 @@ of distributed computing to solve issues that burden our world. Outside of compu
 I am a musician and former NCAA D1 Track and Field athlete who has an unhealthy obsession with
 coffee.
 
+## What is this?
+
+This blog will detail my journey as I work my way through the official Rust documentation
+and book; this includes reflections, thoughts, and any additional research I may conduct.
+You can think of it as a study log or journal.
 
 ## Why am I doing this?
 
