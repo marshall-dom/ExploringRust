@@ -52,7 +52,7 @@ of a result type, and I like the idea of creating custom result types even more.
 is essentially a list of arms to be quite tidy, and the use of arrow syntax instead of separating
 cases by colons and indentation to be very readable.
 
-- Note to self: Rust defaults to u32 for integer values!
+- Note to self: Rust defaults to i32 for integer values!
 
 - The use of match statements to switch (this verbage will take a minute to adjust to) result
 types is an elegant method of error handling. This offers clarity and allows for bindings
