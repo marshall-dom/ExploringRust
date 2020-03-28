@@ -13,6 +13,10 @@ annoying to have to manually specify dependencies in the Cargo.toml file in orde
 to add them to a project. After using Go and it's dependency management system for
 a while (i.e. go modules and go-get), it felt weird having to do this by hand again.
 
+- **ADDENDUM** - I have since discovered that external creates can be installed through
+cargo via cargo install. I had a hard time believing that they would not include this
+in their system. Disregard the previous bullet!
+
 - I love being able to run "cargo fmt" at any time to automatically format my code
 to the latest spec conventions. I found this really useful; in fact, I will probably
 set a keymap for this in vim so I can do it even more quickly.
