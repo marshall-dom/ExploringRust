@@ -153,8 +153,7 @@ fn value_in_cents(coin: Coin) -> u8 {
         Coin::Penny => 1,
         Coin::Nickle => 5,
         Coin::Dime => 10,
-        Coin::Quarter => 25,
-    }
+        Coin::Quarter => 25, }
 }
 ```
 
@@ -199,7 +198,7 @@ fn value_in_cents(coin: Coin) -> u8 {
 matches, the state variable will bind to the value of that quater's state. This variable
 can then be used in the code for that arm
 
-### Matchin with Option<T>
+### Matching with Option<T>
 
 - Match is commonly used to compare the variants of Option<T>, returning one value if there
 is a value and another if the value is absent
