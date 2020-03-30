@@ -1,4 +1,4 @@
-# Introduction
+# Exploring Rust
 
 ## Who am I?
 
