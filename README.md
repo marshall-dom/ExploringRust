@@ -1,4 +1,4 @@
-# Introduction
+# Exploring Rust
 
 ## Who am I?
 
@@ -10,8 +10,8 @@ coffee.
 
 ## What is this?
 
-This blog will detail my journey as I work my way through the official Rust documentation
-and book; this includes reflections, thoughts, and any additional research I may conduct.
+This repo will detail my journey as I work my way through the official Rust documentation
+and book; this includes notes, reflections, thoughts, and any additional research I may conduct.
 You can think of it as a study log or journal.
 
 ## Why am I doing this?
