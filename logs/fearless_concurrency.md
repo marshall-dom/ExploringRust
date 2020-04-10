@@ -294,6 +294,6 @@ the reference count at the same time
 almost all primitive types besides raw pointers are Send types
 
 ### Allowing Access from Multiple Threads with Sync
-- The *Sync* market trait indicates that it is safe for the type implementing Sync to be
+- The *Sync* marker trait indicates that it is safe for the type implementing Sync to be
 referenced from multiple threads
 - **NOTE**: Just as with Send, types composed entirely of Sync types are also Sync
